@@ -1,1 +1,2 @@
-This repository contains the .ipynb code file and the dataset of the GNR638 (Machine Learning fro Remote Sensing II) course project. The project aims to classify 200 species of birds, using an ensemble CNN of MobilenetV2 and ShufflenetV2 architectures. 
+This repository contains the .ipynb code file and the dataset of the GNR638 (Machine Learning fro Remote Sensing II) course project. 
+The project aims to classify 200 species of birds, using an ensemble CNN of MobilenetV2 and ShufflenetV2 architectures. 
